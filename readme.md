@@ -1,4 +1,4 @@
-# Projeto de Automação exemplo Git
+# Projeto de Automação exemplo com  Git
 
 Sobre •
 Tecnologias •
@@ -36,7 +36,9 @@ Linguagens e Ferramentas
 
 ⚙️ Como Usar
 Para replicar os estudos e utilizar este projeto, siga os passos abaixo.
+
 Pré-requisitos
+
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
     Git
